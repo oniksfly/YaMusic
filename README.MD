@@ -18,3 +18,6 @@
 #### 1.2
 - Медиа-кнопки
 - Push-уведомления о треках
+
+### Альтернативы
+- [keysocket](https://github.com/borismus/keysocket)
