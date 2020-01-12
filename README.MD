@@ -37,3 +37,4 @@
 
 ### Альтернативы
 - [keysocket](https://github.com/borismus/keysocket)
+- [yandex-music-desktop](https://github.com/koddr/yandex-music-desktop)
