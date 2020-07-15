@@ -2,6 +2,8 @@
 
 Нативный клиент для прослушывания Яндекс.Музыки на Apple macOS с поддержкой медиа-кнопок, команд, прерываний и восстановления воспроизведения при звонках. 
 
+![Screenshot YaMusic](https://github.com/oniksfly/YaMusic/raw/master/yamusic.png)
+
 ### Загрузка и установка
 - [Скачайте](https://github.com/oniksfly/YaMusic/releases/tag/2.0) и запустите PKG-инсталлятор, следуйте инструкциям.
 
