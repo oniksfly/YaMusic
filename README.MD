@@ -5,7 +5,7 @@
 ![Screenshot YaMusic](https://github.com/oniksfly/YaMusic/raw/master/yamusic.png)
 
 ### Загрузка и установка
-- [Скачайте](https://github.com/oniksfly/YaMusic/releases/tag/2.0) и запустите PKG-инсталлятор, следуйте инструкциям.
+- [Скачайте](https://github.com/oniksfly/YaMusic/releases/tag/2.0.1) и запустите PKG-инсталлятор, следуйте инструкциям.
 
 ### Требования
 - macOS 10.14+
